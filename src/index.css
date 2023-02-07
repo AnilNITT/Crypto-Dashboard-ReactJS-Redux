@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+    font-weight: 800;
+    font-size: 35px;
+    color: black;
+    margin-top: -0.5rem;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
